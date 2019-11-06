@@ -1,0 +1,55 @@
+body {
+    background-color: darkslateblue;
+    color: lightgray;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+#search-bar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#gif-container {
+    height: 500px;
+    width: 500px;
+    border: 2px solid lightgray;
+    margin: 0 auto;
+}
+
+#tag-input {
+    background-color: lightgray;
+    font-family: 'Permanent Marker', cursive;
+    border-radius: 5px;
+}
+
+#gif-generator {
+    background-color: lightgray;
+    color: darkslateblue;
+    border-radius: 5px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#quote-container {
+    background-color: lightgray;
+    color: darkslateblue;
+    height: 100px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#quote-generator {
+    background-color: lightgray;
+    color: darkslateblue;
+    border-radius: 5px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#quotebutton-container {
+    text-align: center;
+    margin: 20px;
+}
